@@ -3,7 +3,7 @@ entries:
   gitreptest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-06T12:53:37.793309551+05:30"
+    created: "2021-06-06T13:42:29.357787569+05:30"
     description: A Helm chart for Kubernetes
     digest: 24dc65ef734c839837689e3528094d5512393cda82f760f04f99c048413118f4
     name: gitreptest
@@ -11,4 +11,15 @@ entries:
     urls:
     - gitreptest-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-06T12:53:37.792598798+05:30"
+  tyagi2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-06T13:42:29.358249297+05:30"
+    description: Test for git hub
+    digest: 378f32e9b33d1629a0802220b792131ee7ac3644a5b2f990075ff068d1d709a4
+    name: tyagi2
+    type: application
+    urls:
+    - tyagi2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-06T13:42:29.357133214+05:30"
